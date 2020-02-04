@@ -9,8 +9,8 @@
 Adafruit_Si7021 sensor = Adafruit_Si7021();
 
 //-------- Customise these values -----------
-const char* ssid = "Oizom2G";
-const char* password = "9510810866";
+const char* ssid = "Internet";
+const char* password = "00000000";
 
 #define ORG "v1rzzy"
 #define DEVICE_TYPE "UrbanNaps"
